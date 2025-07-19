@@ -33,8 +33,8 @@ This system simulates the core components of farm management through structured 
 📸 Below is the Entity-Relationship Diagram (ERD) and database schema structure:  
 *(Make sure to replace the placeholder paths with the actual paths to your images)*
 
-![ERD Diagram](./erd.jpg)  
-![Database Schema](./schema.jpg)
+![ERD Diagram](./final-erd.jpg)  
+![Database Schema](./final-schema.jpg)
 
 ---
 
@@ -101,7 +101,8 @@ This project was developed to help students and junior developers understand:
 - Many-to-many relationships and join tables
 - Use of `FOREIGN KEY` with `ON DELETE CASCADE`
 - Real-world modeling of farm operations
-👉 **[View the complete C source code here](https://github.com/ZiyadAzzaz/Farm-Managment-DB/blob/main/Final-Report.pdf)**
+- 
+👉 **[View the Full Report Here](https://github.com/ZiyadAzzaz/Farm-Managment-DB/blob/main/Final-Report.pdf)**
 ---
 
 ## 🪪 License
