@@ -101,7 +101,7 @@ This project was developed to help students and junior developers understand:
 - Use of `FOREIGN KEY` with `ON DELETE CASCADE`
 - Real-world modeling of farm operations
 - 
-👉 **[View the Full Report Here](https://github.com/ZiyadAzzaz/Farm-Managment-DB/blob/main/Final-Report.pdf)**
+👉 **[View the Full Report Here](https://github.com/ZiyadAzzaz/Farm-Management-DB/blob/main/Final-Report.pdf)**
 ---
 
 ## 🪪 License
