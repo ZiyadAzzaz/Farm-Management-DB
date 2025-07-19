@@ -31,7 +31,6 @@ This system simulates the core components of farm management through structured 
 ## 🧩 ERD & Schema
 
 📸 Below is the Entity-Relationship Diagram (ERD) and database schema structure:  
-*(Make sure to replace the placeholder paths with the actual paths to your images)*
 
 ![ERD Diagram](./final-erd.jpg)  
 ![Database Schema](./final-schema.jpg)
